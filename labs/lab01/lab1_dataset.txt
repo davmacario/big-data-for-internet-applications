@@ -1,0 +1,9 @@
+alice,4
+bob,5
+john,4
+alice,3
+john,8
+bob,3
+alice,7
+john,9
+bob,3
